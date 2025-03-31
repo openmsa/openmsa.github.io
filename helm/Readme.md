@@ -8,7 +8,7 @@ Deploiement:
 helm install --create-namespace --namespace <NAMESPACE> <RELEASE_NAME> openmsa/msa --version <CHART VERSION>
 
 example:
-helm install --create-namespace --namespace msa mymsa openmsa/msa --version 3.1.0
+helm install --create-namespace --namespace cloudiamo myCloudiamo openmsa/msa --version 3.1.0
 
 List:
-helm list -n msa
+helm list -n cloudiamo
