@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   msa:
   - apiVersion: v2
+    appVersion: 3.3.0.0
+    created: "2025-05-12T13:59:57.093552001Z"
+    description: Helm chart for msa and cloudclapp
+    digest: 1d41f53f13e832bfa8a5b27ff19353f1ea600682b29298d1c8de21dbc0c83772
+    name: msa
+    type: application
+    urls:
+    - https://openmsa.github.io/helm/msa-3.3.0.tgz
+    version: 3.3.0
+  - apiVersion: v2
     appVersion: 3.1.0.338
-    created: "2025-03-28T08:44:19.28212363Z"
+    created: "2025-05-12T13:59:57.091686366Z"
     description: Helm chart for msa and cloudclapp
     digest: bcd85c8e994ffaa11b343552b07f00340db4a389d54a5f7332137ea5d11c846a
     name: msa
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://openmsa.github.io/helm/msa-3.1.0.tgz
     version: 3.1.0
-generated: "2025-03-28T08:44:19.280139699Z"
+generated: "2025-05-12T13:59:57.089767389Z"
