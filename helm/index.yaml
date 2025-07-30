@@ -3,7 +3,7 @@ entries:
   msa:
   - apiVersion: v2
     appVersion: 3.2.2.235
-    created: "2025-07-30T15:46:01.109687074Z"
+    created: "2025-07-30T15:59:59.591091713Z"
     description: Helm chart for msa and cloudclapp
     digest: 49998b1fde1798f8314cee3923a6eeaf5a88d737c3cf56b19f796b24fd9a8c7e
     name: msa
@@ -12,8 +12,18 @@ entries:
     - https://openmsa.github.io/helm/msa-3.2.2.tgz
     version: 3.2.2
   - apiVersion: v2
+    appVersion: 3.2.1.397
+    created: "2025-07-30T15:59:59.589035502Z"
+    description: Helm chart for msa and cloudclapp
+    digest: ec8ba885106527594e33c94e6e682b42ad9837e3d2d74cb33b9aae767fd28765
+    name: msa
+    type: application
+    urls:
+    - https://openmsa.github.io/helm/msa-3.2.1.tgz
+    version: 3.2.1
+  - apiVersion: v2
     appVersion: 3.2.0.372
-    created: "2025-07-30T15:46:01.106164724Z"
+    created: "2025-07-30T15:59:59.585626952Z"
     description: Helm chart for msa and cloudclapp
     digest: 5f80dea966d3dde2f64b32446dd5e70a0ae06cf4fbc3d00b377ba8746dba0767
     name: msa
@@ -23,7 +33,7 @@ entries:
     version: 3.2.0
   - apiVersion: v2
     appVersion: 3.1.0.338
-    created: "2025-07-30T15:46:01.104404867Z"
+    created: "2025-07-30T15:59:59.583840631Z"
     description: Helm chart for msa and cloudclapp
     digest: bcd85c8e994ffaa11b343552b07f00340db4a389d54a5f7332137ea5d11c846a
     name: msa
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://openmsa.github.io/helm/msa-3.1.0.tgz
     version: 3.1.0
-generated: "2025-07-30T15:46:01.102526172Z"
+generated: "2025-07-30T15:59:59.581972252Z"
